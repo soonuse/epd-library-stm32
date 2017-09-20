@@ -10,9 +10,9 @@ GDEM0213E26LT 2.13" e-paper library for STM32
   * DIN    ->    PA7
   * CLK    ->    PA5
   * CS     ->    PA4
-  * D/C    ->    PA2
-  * RST    ->    PA1
-  * BUSY   ->    PA3
+  * D/C    ->    PC7
+  * RST    ->    PA9
+  * BUSY   ->    PA8
 ## How to use
 1.  open the .ioc file with STM32CubeMX.
 2.  set the toolchain/IDE (MDK-ARM V5 is recommended).
