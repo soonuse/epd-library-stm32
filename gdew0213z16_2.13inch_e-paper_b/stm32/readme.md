@@ -4,7 +4,7 @@ GDEW0213Z16 2.13" e-paper display (B) library for STM32
   * Keil v5
   * STM32CubeMX
   * Library: HAL (hardware abstraction layers)
-## Hardware connection (OLED => STM32F103ZE)
+## Hardware connection (EPD => STM32F103ZE)
   * VCC    ->    3.3
   * GND    ->    GND
   * DIN    ->    PA7

@@ -4,7 +4,7 @@ GDEH029A1 2.9" e-paper display library for STM32
   * Keil v5
   * STM32CubeMX
   * Library: HAL (hardware abstraction layers)
-## Hardware connection (OLED => STM32F103R8)
+## Hardware connection (EPD => STM32F103R8)
   * VCC    ->    3.3
   * GND    ->    GND
   * DIN    ->    PA7

@@ -1,10 +1,10 @@
-# gdew0154z04_e-paper_for_stm32
-GDEW0154Z04 e-paper library for STM32
+# GDEW0154Z04 e-paper display library for STM32
+GDEW0154Z04 e-paper display library for STM32
 ## Development environment
   * Keil v5
   * STM32CubeMX
   * Library: HAL (hardware abstraction layers)
-## Hardware connection (OLED => STM32F103ZE)
+## Hardware connection (EPD => STM32F103ZE)
   * VCC    ->    3.3
   * GND    ->    GND
   * DIN    ->    PA7
