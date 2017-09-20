@@ -4,7 +4,7 @@ GDEW0154Z04 1.54" e-paper library for STM32
   * Keil v5
   * STM32CubeMX
   * Library: HAL (hardware abstraction layers)
-## Hardware connection (OLED => STM32F103ZE)
+## Hardware connection (OLED => STM32F103R8)
   * VCC    ->    3.3
   * GND    ->    GND
   * DIN    ->    PA7
