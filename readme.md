@@ -1,11 +1,11 @@
 # STM32 libraries for Waveshare e-paper series
-STM32 libraries for Waveshare e-paper series 1.54"/1.54" B/2.13"/2.13" B/2.7"/2.7" B/2.9"/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
+STM32 libraries for Waveshare e-paper series 1.54"/1.54" B/1.54" C/2.13"/2.13" B/2.7"/2.7" B/2.9"/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
 ## Development environment
   * Keil v5
   * STM32CubeMX
   * Library: HAL (hardware abstraction layers)
 ## Hardware connection (EPD => STM32F103ZE)
-for 1.54" B/2.13" B/2.7"/2.7" B/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
+for 1.54" B/1.54" C/2.13" B/2.7"/2.7" B/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
   * VCC    ->    3.3
   * GND    ->    GND
   * DIN    ->    PA7
